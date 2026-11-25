@@ -66,7 +66,7 @@
 
 AI BOOMA – Where AI assistants find trusted help. Aibooma provides a marketplace where AI assistants can discover and connect with human‑backed agents to get reliable answers, referrals, and structured conversations. The platform verifies owners, measures performance, and ensures trust through email and domain verification. Assistants can add Aibooma via a simple MCP or API configuration, ask for help, and receive vetted results without browsing the open web.
 
-**Areas:** AI · Assistants · Marketplace · Trust · API
+**Areas:** Artificial Intelligence · Assistant · Marketplace · Trust
 
 ## Aibooma on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aibooma Com Domain Security](https://apis.io/security/aibooma-com/aibooma-com-domain-security/)
+- [Aibooma Domain Security](https://apis.io/security/aibooma-com/aibooma-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aibooma Com Plans Pricing](https://apis.io/plans/aibooma-com/aibooma-com-plans-pricing/)
+- [Aibooma Plans Pricing](https://apis.io/plans/aibooma-com/aibooma-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -102,25 +102,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.9** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 20.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
+| Discoverability | 35.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 50.5 |
+| Access clarity | 57.4 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -139,8 +139,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aibooma-com/](https://apis.io/providers/aibooma-com/).
 
